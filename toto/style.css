@@ -1,0 +1,21 @@
+/*
+Theme Name: Toto
+Theme URI: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Author: MOI
+Author URI: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Description: Awesome theme.
+Tags: blog
+Version: 0.1
+*/
+.toto-archive-container{
+	padding:10px;
+	border:1px solid red;
+}
+.toto-footer{
+	padding:10px;
+	margin:10px;
+	text-align:center;
+	background-color:black;
+	color:white;
+	font-size:25px;
+}
